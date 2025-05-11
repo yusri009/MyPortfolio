@@ -1,0 +1,102 @@
+
+.cascadia-code-developer {
+  font-family: "Cascadia Code", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 3.5rem;
+  font-style: normal;
+}
+
+.cascadia-code-name{
+  font-family: "Cascadia Code", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 3.9rem;
+  font-style: normal;
+}
+
+
+.jetbrains-mono-description {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.jetbrains-mono-proDescription{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-align: center;
+  /* padding-left: 30px;
+  padding-left: 30px; */
+}
+.jetbrains-mono-projectName{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+.jetbrains-mono-welcome{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2rem;
+  padding-top: 60px ;
+}
+.jetbrains-mono-skill{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2rem;
+}
+.jetbrains-mono-welcome{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2rem;
+  padding-top: 40px ;
+}
+.cpp-logo{
+  color: #2b2b2b;
+}
+.aTag{
+  text-decoration: none; 
+  color: #2b2b2b;
+}
+.form-control{
+  background-color: rgb(255, 255, 132);
+  border-color: #2b2b2b;
+  border-width: 2px;
+}
+
+.form-label{
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2rem;
+}
+.btn{
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 20px;
+  font-weight:500;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 1.5rem;
+  color: #2b2b2b;
+  border-color:#2b2b2b ;
+  border-width: 2px;
+}
+body{
+    /* background-color: rgb(68, 222, 191); */
+    background-color: rgb(256, 256, 132);
+}
