@@ -23,7 +23,23 @@
     <script src="script.js"></script>
 </head>
 <body>
-    <div class="container"> <!--Introduction-->
+
+    <nav class="navbar fixed-top navbar-expand-lg">
+        <a class="navbar-brand ms-5 " href="">Yusri Ahamed</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link" href="#about">About <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="#skills">Skills</a>
+                <a class="nav-item nav-link" href="#projects">Projects</a>
+                <a class="nav-item nav-link" href="#contact">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container" id="about"> <!--About-->
         <div class="col-12 mt-3">
             <!-- <h1 class="text-center">Yusri Ahamed</h1> Add navigation bar here -->
         </div>
@@ -69,7 +85,7 @@
         
     </div>
 
-    <div class="container mt-5"> <!--Skills-->
+    <div class="container mt-5" id="skills"> <!--Skills-->
         <div>
             <h1 class="cascadia-code-developer"><u>Skills</u></h1>
         </div>
@@ -112,7 +128,7 @@
         </div>        
     </div>
 
-    <div class="container"><!--Projects-->
+    <div class="container" id="projects"><!--Projects-->
 
         <div>
             <h1 class="cascadia-code-developer"><u>Projects</u></h1>
@@ -150,7 +166,7 @@
         </div>
     </div>
 
-    <div><!--Contact Me-->
+    <div class="container" id="contact"><!--Contact Me-->
         <div class="container">
             <h1 class="cascadia-code-developer"><u>Contact Me</u></h1>
         </div>

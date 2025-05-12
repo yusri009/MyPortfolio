@@ -1,3 +1,20 @@
+.navbar{
+  background-color: #2b2b2b;
+  position: sticky;
+}
+.navbar-brand{
+  font-family: "Cascadia Code", sans-serif;
+  color: rgb(255, 255, 132);
+  font-size: 1.5rem;
+}
+.nav-item{
+  font-family: "Cascadia Code", sans-serif;
+  color: rgb(255, 255, 132);
+}
+.navbar-toggler{
+  background-color: rgb(255, 255, 132);
+}
+
 
 .cascadia-code-developer {
   font-family: "Cascadia Code", sans-serif;
